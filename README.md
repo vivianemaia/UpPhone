@@ -8,7 +8,7 @@ Entre as principais operações estão o cadastro de pessoas, vendedores e produ
 
 O projeto foi desenvolvido em Java 17 (compatível com versões anteriores a partir da 8). Para executar, basta clonar o repositório, compilar os arquivos .java e iniciar a aplicação pela classe Main.
 
-Possíveis melhorias futuras incluem a implementação de persistência de dados em arquivos ou banco de dados e interface gráfica em JavaFX ou Swing..
+Possíveis melhorias futuras incluem a implementação de persistência de dados em arquivos ou banco de dados e interface gráfica em JavaFX ou Swing.
 
 Desenvolvido por Viviane Maia – contato: vivianemds@gmail.com
  | LinkedIn: https://www.linkedin.com/in/vivianemaianogueira
